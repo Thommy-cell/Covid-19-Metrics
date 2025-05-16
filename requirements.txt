@@ -19,9 +19,9 @@ itsdangerous==2.1.2
 Jinja2==3.1.6
 Mako==1.2.4
 MarkupSafe==2.1.5
-numpy>=1.23,<1.26
+numpy>=1.24.4,<1.26
 packaging==24.0
-pandas==1.1.5
+pandas==1.5.3
 python-dateutil==2.9.0.post0
 pytz==2025.2
 six==1.17.0
