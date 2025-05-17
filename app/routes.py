@@ -1,6 +1,6 @@
 from flask import Blueprint, render_template
 import pandas as pd
-from app import app
+
 
 
 main_bp = Blueprint('main', __name__)
