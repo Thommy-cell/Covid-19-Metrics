@@ -1,7 +1,7 @@
 import pandas as pd
 from datetime import datetime
-from app import create_app, db
-from app.models import Country, CovidStat
+from covid import create_app, db
+from covid.models import Country, CovidStat
 
 app = create_app()
 
